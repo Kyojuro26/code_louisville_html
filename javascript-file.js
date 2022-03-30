@@ -7,3 +7,8 @@ function myFunction() {
       x.className = "topnav";
     }
   }
+
+function readuserinput() {
+  var forminput= document.getElementById("username").value;
+  console.log(forminput);
+}

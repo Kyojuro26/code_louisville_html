@@ -10,5 +10,5 @@ Jiyuu will be a 501(c)(3) not-for-profit organization with a mission to construc
 2) Used media query & flexbox to swap from a single column layout on Macbook Air (622 X 612)to a three-column layout on a desktop with screen dimensions greater than or equal to 1500px
 
 1 JavaScript Feature: 
-Created a Contact form and used RegEx to validate email address field. If user does not use @ or ., then user will see prompt which says: "Please include an '@' in the email address. 
+Created a Contact form and used RegEx to validate inputs in email address field. If user does not use @ or ., then user will see prompt which says: "Please include an '@' in the email address. 
 

@@ -1,4 +1,7 @@
 Description
+
+Visit: http://127.0.0.1:5500/project.html 
+
 Jiyuu will be a 501(c)(3) not-for-profit organization with a mission to construct net zero mixed use developments which offer affordable rent-to-own housing units and commercial spaces for cooperative businesses, along with wrap-around services including workforce development programs, ESL courses & pathways to family-supporting careers.
 
 2 media quieries:
